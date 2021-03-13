@@ -16,3 +16,16 @@ EN: A simple calculator program written at the C language for operations between
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C UserInput
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GR: Μερικά User Input παραδείγματα (όπου ο χρήστης δηλαδή δίνει τιμή μέσω της εντολής scanf και την εμφανίζουμε μέσω της εντολής printf).
+
+-Πρόγραμμα για αριθμούς είναι το αρχείο "User Input Numbers".
+
+-Πρόγραμμα για strings και χαρακτήρες έχει όνομα "User Input Characters".
+
+EN: A few User Input examples using the scanf command to "scan" the input the printf command to print the input out.
+
+-Program for numbers has the name "User Input Numbers"
+
+-Program for strings and characters has the name "User Input Characters".

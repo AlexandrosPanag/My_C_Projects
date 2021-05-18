@@ -1,3 +1,4 @@
+/* this is a function that generates 5 numbers , then stores them in an array and finally prints the array's elements */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

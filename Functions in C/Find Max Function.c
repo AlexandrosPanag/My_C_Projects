@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* this function illustates how to find from two input numbers which one is bigger than the other */
 /* function declaration */
 int max(int num1, int num2);
  

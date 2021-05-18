@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+/*this is a basic function that multiplies two given numbers */
 
 int function(int x,int y); //DECLARING THE FUNCTION
 

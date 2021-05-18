@@ -1,3 +1,6 @@
+/* this build illustrates how a calculator works in c */
+
+
 #include <stdio.h>
 #include <math.h>
 

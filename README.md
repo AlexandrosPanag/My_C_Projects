@@ -18,4 +18,18 @@ My C archieve - Το αρχείο μου στη γλώσσα C.
 αναπτύσσεται  πρώτα  σε  γλώσσα  προγραμματισμού  C  στη  συνέχεια  μεταγλωττίζεται    σε  γλώσσα 
 μηχανής  και  εκτελείται  από  τον  Η/Υ.
 
+
 ΠΗΓΗ: https://alpha.physics.uoi.gr/C/Eisagwgi_kef2.pdf
+
+
+
+Για c threads και χρήση προγραμμάτων σε παράλληλο προγραμματισμό 
+---
+
+
+
+->https://github.com/AlexandrosPanag/Parallel_Programming_Projects
+
+
+
+

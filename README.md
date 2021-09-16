@@ -1,5 +1,10 @@
 My C archieve - Το αρχείο μου στη γλώσσα C.
 ----------------
+
+My certificate from sololearn, https://www.sololearn.com/Certificate/1089-17520389/pdf/?fbclid=IwAR2BFDKdZ98YOk3185cNFuZSOVw_m9DldE4WQ3l5LQDZZxSQrHcSA08705Q
+
+
+
 ![](https://th.bing.com/th/id/OIP._MOWXxL6wpkdLY7Vz7I2tAHaF7?pid=ImgDet&rs=1)
 ---------------------------------------------------------------------------------------------------------------------------------------
 

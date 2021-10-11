@@ -15,7 +15,7 @@ $ ./mandelbrot_serial
 #include <math.h>
 #include<pthread.h>
 
-//define
+//definitions
 #define WIDTH 10000
 #define HEIGHT 8000
 #define MAX_ITER 100
@@ -37,9 +37,9 @@ int N=HEIGHT*WIDTH;
 		y_max = as,
 		pw = (X_MAX - X_MIN) / WIDTH,
 		ph = (y_max - y_min) / HEIGHT;
-	//θα το σπάσω σε δύο νήματα για λόγους ευκολίας λόγω μαθηματικών...
+	//Breaking the threads into two threads for easier coding purposes..
 for(j = 0; j < N/2; j++) {
-		x = j % WIDTH; //ESTW N =100 KAI T=4 TOTE 100/4 TO KATHE NHMA
+		x = j % WIDTH; // N =100 & T=4 THEN 100/4 EVERY THREAD
 		y = j / WIDTH;
 		ry = y_min + y * ph;
 		rx = X_MIN + x * pw;
@@ -70,9 +70,9 @@ int N=HEIGHT*WIDTH;
 		pw = (X_MAX - X_MIN) / WIDTH,
 		ph = (y_max - y_min) / HEIGHT;
 		int start=N/2;
-	//θα το σπάσω σε δύο νήματα για λόγους ευκολίας λόγω μαθηματικών...
+	//SAME PURPOSE AS LINE 40
 for(j = start; j < N; j++) {
-		x = j % WIDTH; //ESTW N =100 KAI T=4 TOTE 100/4 TO KATHE NHMA
+		x = j % WIDTH; 
 		y = j / WIDTH;
 		ry = y_min + y * ph;
 		rx = X_MIN + x * pw;
@@ -94,10 +94,10 @@ for(j = start; j < N; j++) {
 }
 int main() {
 	image = (unsigned char*) malloc(sizeof(unsigned char) * WIDTH * HEIGHT * 4);
-	// ΦΤΙΑΧΝΟΝΤΑΣ ΧΡΟΝΟ ΠΡΟΣΠΈΛΑΣΗΣ
+	// BUILDING TIME ELAPSED
 	double start_t, finish_t, elapsed;
 	GET_TIME(start_t);
-	//ΔΗΜΙΟΥΡΓΩΝΤΑΣ ΤΑ THREADS
+	//CREATING THE THREADS
 	pthread_t t1;
 	pthread_t t2;
 	pthread_create(&t1,NULL, process1, (void *)"A");

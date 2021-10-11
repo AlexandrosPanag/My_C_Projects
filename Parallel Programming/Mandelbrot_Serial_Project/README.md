@@ -10,3 +10,7 @@ Images of the Mandelbrot set exhibit an elaborate and infinitely complicated bou
 The Mandelbrot set has become popular outside mathematics both for its aesthetic appeal and as an example of a complex structure arising from the application of simple rules. It is one of the best-known examples of mathematical visualization, mathematical beauty, and motif.
 
 During the academic year of 2020-2021 we were tasked as university student, to turn the program with the help of lodepng.c, lodepng.h & timer.h, the program from serial programming to parallel programming. This is my solution to the problem
+
+
+Serial compilation instructions: $ gcc mandelbrot_serial.c lodepng.c ‐O3 ‐std=gnu99 ‐lm ‐o mandelbrot_serial
+$ ./mandelbrot_serial

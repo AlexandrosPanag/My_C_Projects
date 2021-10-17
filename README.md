@@ -38,8 +38,7 @@ For c threads & parallel programming projects
 ---
 
 
-
-->https://github.com/AlexandrosPanag/Parallel_Programming_Projects
+https://github.com/AlexandrosPanag/My-C-Projects/tree/main/Parallel%20Programming
 
 
 

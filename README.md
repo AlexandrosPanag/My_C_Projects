@@ -8,27 +8,33 @@ My certificate from sololearn, https://www.sololearn.com/Certificate/1089-175203
 ![](https://th.bing.com/th/id/OIP._MOWXxL6wpkdLY7Vz7I2tAHaF7?pid=ImgDet&rs=1)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-Η γλώσσα C.
-  Η C  είναι  μια  γλώσσα  προγραμματισμού  υψηλού  επιπέδου  η  οποία  αναπτύχθηκε  για  πρώτη 
-φορά στις αρχές της δεκαετίας του ’70 από τον Dennis Ritchie στα AT&T Bell Labs. Η σημερινή μορφή 
-της γλώσσας ακολουθεί το πρότυπο ANSI (American National Standards Institute) γιαυτό και φέρει την 
-ονομασία “ANSI C”. Ως γλώσσα υψηλού επιπέδου παρουσιάζει τα παρακάτω πλεονεκτήματα:
-• Αναγνωσιμότητα : Τα προγράμματα διαβάζονται εύκολα.
-• Συντήρηση : Τα προγράμματα  είναι εύκολο να συντηρηθούν.
-• Μεταφερσιμότητα :  Τα  προγράμματα  εύκολα  μεταφέρονται  σε  διαφορετικά  λειτουργικά 
-συστήματα και μηχανές.
-  Κάθε  γλώσσα  υψηλού  επιπέδου  χρειάζεται  έναν  μεταγλωττιστή (compiler)  ο  οποίος 
-αναλαμβάνει  να  μεταφράσει  τις  γραμμές  ενός  προγράμματος  σε  γλώσσα  μηχανής.  Είναι  η  γλώσσα 
-μηχανής  αυτή  η  οποία  γίνεται  αντιληπτή  από  έναν  Η/Υ.  Με  αυτόν  τον  τρόπο  ένα  πρόγραμμα 
-αναπτύσσεται  πρώτα  σε  γλώσσα  προγραμματισμού  C  στη  συνέχεια  μεταγλωττίζεται    σε  γλώσσα 
-μηχανής  και  εκτελείται  από  τον  Η/Υ.
+
+Compiler (IDE) used: https://bloodshed.net , https://code.visualstudio.com , https://visualstudio.microsoft.com/downloads/
 
 
-ΠΗΓΗ: https://alpha.physics.uoi.gr/C/Eisagwgi_kef2.pdf
+What is C ?
+
+C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.
+  
+Why use C ?
+
+C programming language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. I will list down some of the key advantages of learning C Programming:
+
+Easy to learn
+
+Structured language
+
+It produces efficient programs
+
+It can handle low-level activities
+
+It can be compiled on a variety of computer platforms
+
+SOURCE: https://www.tutorialspoint.com/cprogramming/index.htm
 
 
 
-Για c threads και χρήση προγραμμάτων σε παράλληλο προγραμματισμό 
+For c threads & parallel programming projects
 ---
 
 

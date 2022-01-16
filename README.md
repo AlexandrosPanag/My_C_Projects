@@ -1,6 +1,9 @@
 My C Projects .
 ----------------
 
+✅ LinkedIn Skill Assessment badge
+https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
+
 My certificate from sololearn, https://www.sololearn.com/Certificate/1089-17520389/pdf/?fbclid=IwAR2BFDKdZ98YOk3185cNFuZSOVw_m9DldE4WQ3l5LQDZZxSQrHcSA08705Q
 
 

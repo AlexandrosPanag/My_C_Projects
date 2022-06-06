@@ -37,12 +37,4 @@ SOURCE: https://www.tutorialspoint.com/cprogramming/index.htm
 
 
 
-For c threads & parallel programming projects
----
-
-
-https://github.com/AlexandrosPanag/My-C-Projects/tree/main/Parallel%20Programming
-
-
-
 

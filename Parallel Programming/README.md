@@ -1,4 +1,4 @@
-# Parallel_Programming_Projects
+Parallel_Programming_Projects
 -------------------------------
 
 
@@ -8,9 +8,9 @@ OpenMP is a set of compiler directives as well as an API for programs written in
 
 SOURCE: https://www.tutorialspoint.com/what-is-openmp#:~:text=OpenMP%20is%20a%20set%20of%20compiler%20directives%20as,blocks%20of%20code%20that%20may%20run%20in%20parallel.
 
----
- WHY WE’RE BUILDING PARALLEL SYSTEMS
-====
+-------------
+WHY WE’RE BUILDING PARALLEL SYSTEMS
+-------------
 
 
 

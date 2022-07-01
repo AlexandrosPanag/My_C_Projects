@@ -6,13 +6,7 @@ https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλ�
 
 
 
-
-
-![](https://th.bing.com/th/id/OIP._MOWXxL6wpkdLY7Vz7I2tAHaF7?pid=ImgDet&rs=1)
----------------------------------------------------------------------------------------------------------------------------------------
-
-
-Compiler (IDE) used: https://bloodshed.net , https://code.visualstudio.com , https://visualstudio.microsoft.com/downloads/
+Compiler(s) (IDE) used: https://bloodshed.net , https://code.visualstudio.com , https://visualstudio.microsoft.com/downloads/
 
 
 What is C ?

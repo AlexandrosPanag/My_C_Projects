@@ -1,7 +1,7 @@
 Heat_Equation_Project
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-During the academic year of 2020-2021, we were tasked to turn a serial program that shows the heat into a computer to parallel using OpenMP library. This is my solution to the problem
+During the academic year of 2020-2021, we were tasked to turn a serial program that shows the heat into a computer with parallel programming using the OpenMP library. This is my solution to the problem
 
 $ gcc heat_serial.c ‐O3 ‐o heat_serial
 $ heat_serial.exe 0.0001 result.out

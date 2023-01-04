@@ -1,10 +1,9 @@
-Parallel_Programming_Projects
+Parallel Programming Projects
 -------------------------------
 
 
 OpenMP is a set of compiler directives as well as an API for programs written in C, C++, or FORTRAN that provides support for parallel programming in shared-memory environments. OpenMP identifies parallel regions as blocks of code that may run in parallel. Application developers insert compiler directives into their code at parallel regions, and these directives instruct the OpenMP run-time library to execute the region in parallel.
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png)
 
 SOURCE: https://www.tutorialspoint.com/what-is-openmp#:~:text=OpenMP%20is%20a%20set%20of%20compiler%20directives%20as,blocks%20of%20code%20that%20may%20run%20in%20parallel.
 

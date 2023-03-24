@@ -6,9 +6,15 @@ My C Projects .
 ✅ LinkedIn Skill Assessment badge
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
+This repository won't be updated for a long while I highly encourage you to check out my new & updated repositories which contain a ton of useful solutions here:
+https://github.com/AlexandrosPanag/My_Espressif_Systems/tree/main/ESP32/ESP-IDF
 
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| Bloodshed Dev C++ | [Download Link](https://bloodshed.net) |
+| Visual Studio | [Download Link](https://code.visualstudio.com) |
+| Visual Studio Code | [Download Link](https://visualstudio.microsoft.com/downloads/) |
 
-Compiler(s) (IDE) used: https://bloodshed.net , https://code.visualstudio.com , https://visualstudio.microsoft.com/downloads/
 
 ---------------
 What is C ?

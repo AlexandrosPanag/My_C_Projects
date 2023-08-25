@@ -25,17 +25,17 @@ C programming is a general-purpose, procedural, imperative computer programming 
 
 C programming language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. I will list down some of the key advantages of learning C Programming:
 
-Easy to learn
+*Easy to learn
 
-Structured language
+*Structured language
 
-It produces efficient programs
+*It produces efficient programs
 
-It can handle low-level activities
+*It can handle low-level activities
 
-It can be compiled on a variety of computer platforms
+*It can be compiled on a variety of computer platforms
 
-Original source can be found here: https://www.tutorialspoint.com/cprogramming/index.htm
+This citation was taken directly: https://www.tutorialspoint.com/cprogramming/index.htm
 
 
 

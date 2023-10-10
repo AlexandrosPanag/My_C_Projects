@@ -1,7 +1,16 @@
 My C Projects .
 ----------------
 
-<img src="https://img.shields.io/bower/l/mi">
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ✅ LinkedIn Skill Assessment badge
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
@@ -25,16 +34,16 @@ C programming is a general-purpose, procedural, imperative computer programming 
 
 C programming language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. I will list down some of the key advantages of learning C Programming:
 
-Easy to learn
+*Easy to learn
 
-Structured language
+*Structured language
 
-It produces efficient programs
+*It produces efficient programs
 
-It can handle low-level activities
+*It can handle low-level activities
 
-It can be compiled on a variety of computer platforms
+*It can be compiled on a variety of computer platforms
 
-Original source can be found here: https://www.tutorialspoint.com/cprogramming/index.htm
+This citation was taken directly: https://www.tutorialspoint.com/cprogramming/index.htm
 
 
